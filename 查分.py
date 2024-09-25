@@ -2,8 +2,8 @@ import requests
 from bs4 import BeautifulSoup
 import ddddocr
 
-USERNAME = "23252401142"  # 学号
-PASSWORD = "ning0108.."  # 门户密码
+USERNAME = ""  # 学号
+PASSWORD = ""  # 门户密码
 
 class User:
     __root = "http://jwxt.gdufe.edu.cn"
